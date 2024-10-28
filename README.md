@@ -1,4 +1,4 @@
-![EkranKayd2024-10-2812 15 44-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0900d96d-e4ca-4aa6-ac51-a15d7ae8a1ce)# film ana sayfası
+# film sayfası
 
 # özellikler
 - Tamamen responsive tasarım
